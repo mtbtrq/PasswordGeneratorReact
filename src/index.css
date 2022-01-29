@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@800&display=swap');
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    background-color: #07070A;
+    color: #0065E0;
+    font-family: "Sora";
+}
+
+#mainHeading {
+    font-size: 69px; /* This was actually perfect tho... */
+    cursor: pointer;
+    color: #0065E0;
+}
